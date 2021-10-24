@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/cs-platform.iml" filepath="$PROJECT_DIR$/.idea/cs-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cryptosky-platform.iml" filepath="$PROJECT_DIR$/.idea/cryptosky-platform.iml" />
     </modules>
   </component>
 </project>
