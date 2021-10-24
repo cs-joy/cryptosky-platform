@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import CitiesSlider from './components/Caro/caros';
-import Visual from './components/ThreeJS/Visual';
+import Navbar from './components/NavBar/NavTs';
 
 function App() {
 
@@ -33,8 +33,24 @@ function App() {
 ];
 
   return (
-    <div>
-      <Visual />
+    <div className="App">
+      <Navbar />
+      <header className="App-header">
+
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Welcome to cryptosky platform
+        </p>
+        <a
+          className="App-link"
+          href="https://cryptoskyplatform.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn about us
+        </a>
+      </header>
+      <CitiesSlider slides={slides} />
     </div>
   );
 }

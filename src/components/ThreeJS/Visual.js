@@ -1,5 +1,6 @@
 import React from 'react'
 import './ThreeG.scss'
+import './ThreeG'
 
 class Visual extends React.Component {
   render() {

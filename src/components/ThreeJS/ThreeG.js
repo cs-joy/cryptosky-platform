@@ -327,7 +327,7 @@ class ThreeD {
 
       const loader = new AudioLoader()
 
-      loader.load('/music.mp3', buffer => {
+      loader.load('.../static/music.mp3', buffer => {
         const tl = new gsap.timeline({
           onComplete: () => {
             this.music.setBuffer(buffer)
