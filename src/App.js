@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import CitiesSlider from './components/Caro/caros';
+import Visual from './components/ThreeJS/Visual';
 
 function App() {
 
@@ -27,27 +28,13 @@ function App() {
   {
     city: 'Moscow',
     country: 'Russia',
-    img: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/moscow.jpg',
+    img: 'https://cryptoskyplatform.org/images/image_1.jpg',
   },
 ];
 
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Welcome to cryptosky platform
-        </p>
-        <a
-          className="App-link"
-          href="https://cryptoskyplatform.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn about us
-        </a>
-      </header>
-      <CitiesSlider slides={slides} />
+    <div>
+      <Visual />
     </div>
   );
 }
