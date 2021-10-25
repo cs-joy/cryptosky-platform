@@ -1,0 +1,59 @@
+.new {
+  background-color: rgb(24, 13, 33);
+  padding: 0;
+  margin: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+
+
+div {
+  will-change: transform;
+  border-radius: 25%;
+}
+
+button {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  appearance: none;
+  border: none;
+  cursor: pointer;
+  top: 80%;
+  left: 50%;
+  font-size: 1rem;
+  transform: translate(-50%, 20%);
+  background-color: rgb(255, 0, 106);
+  color: white;
+}
+
+button:hover {
+  background-color: rgb(253, 87, 156);
+}
+
+.bg-square {
+  width: 300px;
+  height: 300px;
+  background-color: white;
+  box-shadow: 0 0 10px 0px white;
+  display: grid;
+  place-items: center;
+}
+
+.middle-square {
+  display: grid;
+  place-items: center;
+  width: 220px;
+  height: 220px;
+  background-color: rgb(90, 58, 108);
+  box-shadow: 0 0 10px rgb(90, 58, 108);
+}
+
+.front-square {
+  width: 110px;
+  height: 110px;
+  background-color: rgb(253, 0, 143);
+  box-shadow: 0 0 10px rgb(253, 0, 143);
+}

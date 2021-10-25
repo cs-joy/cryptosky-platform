@@ -3,6 +3,7 @@ import './App.css';
 import CitiesSlider from './components/Caro/caros';
 import Navbar from './components/NavBar/NavTs';
 
+
 function App() {
 
   const slides = [
@@ -35,7 +36,8 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <header className="App-header">
+      <CitiesSlider slides={slides} />
+            <div className="App-header">
 
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -49,8 +51,7 @@ function App() {
         >
           Learn about us
         </a>
-      </header>
-      <CitiesSlider slides={slides} />
+      </div>
     </div>
   );
 }
