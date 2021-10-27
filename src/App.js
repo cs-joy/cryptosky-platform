@@ -2,7 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 import CitiesSlider from './components/Caro/caros';
 import Navbar from './components/NavBar/NavTs';
-
+import NeAnt from './components/Antd/divider/Divider';
+import newCa from './components/Antd/Cards/newCa';
 
 function App() {
 
@@ -36,9 +37,7 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <CitiesSlider slides={slides} />
-            <div className="App-header">
-
+      <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Welcome to cryptosky platform
@@ -51,7 +50,10 @@ function App() {
         >
           Learn about us
         </a>
-      </div>
+      </header>
+      <CitiesSlider slides={slides} />
+      <NeAnt />
+      <newCa />
     </div>
   );
 }
