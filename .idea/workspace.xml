@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de9c6861-1f62-4406-9394-a5533d5945e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Antd/Cards/newCa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Antd/divider/Divider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Antd/divider/de.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="de9c6861-1f62-4406-9394-a5533d5945e6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
