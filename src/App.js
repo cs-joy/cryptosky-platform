@@ -5,6 +5,9 @@ import Navbar from './components/NavBar/NavTs';
 import NeAnt from './components/Antd/divider/Divider';
 import newCa from './components/Antd/Cards/newCa';
 
+import DividerExampleHorizontalTable from './components/SemanticUI/Divid/example';
+import ProgressExampleActive from './components/SemanticUI/Progress/proCom';
+
 function App() {
 
   const slides = [
@@ -54,6 +57,8 @@ function App() {
       <CitiesSlider slides={slides} />
       <NeAnt />
       <newCa />
+      <DividerExampleHorizontalTable />
+      <ProgressExampleActive />
     </div>
   );
 }

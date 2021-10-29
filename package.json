@@ -23,6 +23,8 @@
     "react-scripts": "4.0.3",
     "react-sticky-nav": "^4.0.6",
     "sass": "^1.43.3",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.4",
     "springframes": "^0.5.4",
     "three": "^0.133.1",
     "three-instanced-uniforms-mesh": "^0.43.0",
