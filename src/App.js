@@ -7,6 +7,10 @@ import newCa from './components/Antd/Cards/newCa';
 
 import DividerExampleHorizontalTable from './components/SemanticUI/Divid/example';
 import ProgressExampleActive from './components/SemanticUI/Progress/proCom';
+import DropdownExampleMultipleSelection from './components/SemanticUI/Multiple Selection/NewCo';
+import MenuExampleInvertedSegment from './components/SemanticUI/Inverted/Inver';
+import GridColumnWidth from './components/SemanticUI/BlogComponents/ColumnWidth/ColumnWidth';
+import LabelExampleColored from './components/SemanticUI/Label/firstLBL';
 
 function App() {
 
@@ -59,6 +63,10 @@ function App() {
       <newCa />
       <DividerExampleHorizontalTable />
       <ProgressExampleActive />
+      <DropdownExampleMultipleSelection />
+      <MenuExampleInvertedSegment />
+      <GridColumnWidth />
+      <LabelExampleColored />
     </div>
   );
 }
