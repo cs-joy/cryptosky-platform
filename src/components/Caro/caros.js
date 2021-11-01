@@ -1,5 +1,5 @@
 import React from 'react';
-import './style.scss';
+import './design.scss';
 import classNames from 'classnames';
 
 class CitiesSlider extends React.Component {
