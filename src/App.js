@@ -45,8 +45,8 @@ function App() {
 
   return (
     <div className="App">
-      <MenuExampleInvertedSegment />
       <header className="App-header">
+      <MenuExampleInvertedSegment />
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Welcome to cryptosky platform
@@ -68,8 +68,8 @@ function App() {
       <DropdownExampleMultipleSelection />
       <GridColumnWidth />
       <LabelExampleColored />
-      <GridExampleGrid />
       <GridHeading />
+      <GridExampleGrid />
       <GridExampleStackable />
     </div>
   );
