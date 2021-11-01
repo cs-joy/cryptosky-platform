@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 import CitiesSlider from './components/Caro/caros';
-import Navbar from './components/NavBar/NavTs';
 import NeAnt from './components/Antd/divider/Divider';
 import newCa from './components/Antd/Cards/newCa';
 
@@ -11,6 +10,8 @@ import DropdownExampleMultipleSelection from './components/SemanticUI/Multiple S
 import MenuExampleInvertedSegment from './components/SemanticUI/Inverted/Inver';
 import GridColumnWidth from './components/SemanticUI/BlogComponents/ColumnWidth/ColumnWidth';
 import LabelExampleColored from './components/SemanticUI/Label/firstLBL';
+
+import GridExampleGrid from './components/SemanticUI/Grids/basic/BasicGr';
 
 function App() {
 
@@ -43,7 +44,7 @@ function App() {
 
   return (
     <div className="App">
-      <Navbar />
+      <MenuExampleInvertedSegment />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -64,9 +65,9 @@ function App() {
       <DividerExampleHorizontalTable />
       <ProgressExampleActive />
       <DropdownExampleMultipleSelection />
-      <MenuExampleInvertedSegment />
       <GridColumnWidth />
       <LabelExampleColored />
+      <GridExampleGrid />
     </div>
   );
 }
