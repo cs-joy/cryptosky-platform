@@ -10,8 +10,9 @@ import DropdownExampleMultipleSelection from './components/SemanticUI/Multiple S
 import MenuExampleInvertedSegment from './components/SemanticUI/Inverted/Inver';
 import GridColumnWidth from './components/SemanticUI/BlogComponents/ColumnWidth/ColumnWidth';
 import LabelExampleColored from './components/SemanticUI/Label/firstLBL';
-
 import GridExampleGrid from './components/SemanticUI/Grids/basic/BasicGr';
+import GridHeading from './components/SemanticUI/Grids/GridHeading';
+import GridExampleStackable from './components/SemanticUI/Grids/Stackable/stackAble';
 
 function App() {
 
@@ -68,6 +69,8 @@ function App() {
       <GridColumnWidth />
       <LabelExampleColored />
       <GridExampleGrid />
+      <GridHeading />
+      <GridExampleStackable />
     </div>
   );
 }
