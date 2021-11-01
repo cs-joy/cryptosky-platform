@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de9c6861-1f62-4406-9394-a5533d5945e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cApp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SemanticUI/BlogComponents/ColumnWidth/ColumnWidth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SemanticUI/BlogComponents/ColumnWidth/Images/Big_Rain_Party.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SemanticUI/BlogComponents/ColumnWidth/Images/ReddCoin_CSP.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SemanticUI/BlogComponents/ColumnWidth/Images/sb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SemanticUI/FirstLay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SemanticUI/Inverted/Inver.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SemanticUI/Label/firstLBL.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SemanticUI/Multiple Selection/NewCo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TypeScript/FirstRow/das.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TypeScript/FirstRow/dash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TypeScript/Atom/firstComp.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TypeScript/FirstRow/das.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TypeScript/FirstRow/das.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

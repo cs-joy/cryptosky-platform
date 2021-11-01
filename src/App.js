@@ -11,6 +11,7 @@ import DropdownExampleMultipleSelection from './components/SemanticUI/Multiple S
 import MenuExampleInvertedSegment from './components/SemanticUI/Inverted/Inver';
 import GridColumnWidth from './components/SemanticUI/BlogComponents/ColumnWidth/ColumnWidth';
 import LabelExampleColored from './components/SemanticUI/Label/firstLBL';
+import sec from './components/TypeScript/Atom/sec.ts';
 
 function App() {
 
@@ -67,6 +68,7 @@ function App() {
       <MenuExampleInvertedSegment />
       <GridColumnWidth />
       <LabelExampleColored />
+      <sec />
     </div>
   );
 }

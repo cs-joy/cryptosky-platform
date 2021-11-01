@@ -5,6 +5,7 @@
   "dependencies": {
     "@blueprintjs/core": "^3.51.3",
     "@blueprintjs/docs-theme": "^3.10.18",
+    "@lapidist/components": "^6.6.4",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
@@ -28,6 +29,7 @@
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.0.4",
     "springframes": "^0.5.4",
+    "styled-components": "^5.3.3",
     "three": "^0.133.1",
     "three-instanced-uniforms-mesh": "^0.43.0",
     "tweakpane": "^3.0.5",
