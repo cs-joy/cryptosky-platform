@@ -13,6 +13,7 @@ import LabelExampleColored from './components/SemanticUI/Label/firstLBL';
 import GridExampleGrid from './components/SemanticUI/Grids/basic/BasicGr';
 import GridHeading from './components/SemanticUI/Grids/GridHeading';
 import GridExampleStackable from './components/SemanticUI/Grids/Stackable/stackAble';
+import AccordionExampleFluid from './components/SemanticUI/ModulesL/Accordion/variationFluid';
 
 function App() {
 
@@ -44,6 +45,7 @@ function App() {
 ];
 
   return (
+    <div>
     <div className="App">
       <header className="App-header">
       <MenuExampleInvertedSegment />
@@ -71,6 +73,9 @@ function App() {
       <GridHeading />
       <GridExampleGrid />
       <GridExampleStackable />
+    </div>
+      <AccordionExampleFluid />
+
     </div>
   );
 }

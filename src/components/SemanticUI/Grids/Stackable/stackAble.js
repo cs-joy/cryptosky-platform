@@ -13,7 +13,7 @@ const GridExampleStackable = () => (
     <Grid.Column>
       <Segment>
         <h3>Heading of this template</h3>
-        <Image src={img} />
+        <Image src={img} fluid />
         <p>.............................</p>
         <p>...........................</p>
         <p>............................</p>

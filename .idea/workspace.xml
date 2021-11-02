@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de9c6861-1f62-4406-9394-a5533d5945e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/SemanticUI/Grids/Divider/Dividers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SemanticUI/Grids/GridHeading.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SemanticUI/Grids/Stackable/images/left-side.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SemanticUI/Grids/Stackable/images/right-side.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SemanticUI/Grids/Stackable/stackAble.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SemanticUI/ModulesL/Accordion/DesContent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SemanticUI/ModulesL/Accordion/variationFluid.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SemanticUI/Grids/Stackable/stackAble.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SemanticUI/Grids/Stackable/stackAble.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
