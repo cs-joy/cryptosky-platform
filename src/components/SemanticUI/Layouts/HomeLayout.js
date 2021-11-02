@@ -19,6 +19,8 @@ import {
   Visibility,
 } from 'semantic-ui-react'
 
+import image from './design/coworking6.png'
+
 const { MediaContextProvider, Media } = createMedia({
   breakpoints: {
     mobile: 0,
@@ -54,7 +56,7 @@ const HomepageHeading = ({ mobile }) => (
         marginTop: mobile ? '0.5em' : '1.5em',
       }}
     />
-    <Button primary size='huge'>
+    <Button as='a' href='https://cryptoskyplatform.org' target='_blank' rel='noopener noreferrer' primary size='huge'>
       Get Started
       <Icon name='right arrow' />
     </Button>
@@ -103,8 +105,8 @@ class DesktopContainer extends Component {
                 <Menu.Item as='a' active>
                   Home
                 </Menu.Item>
-                <Menu.Item as='a'>Work</Menu.Item>
-                <Menu.Item as='a'>Company</Menu.Item>
+                <Menu.Item as='a'>About</Menu.Item>
+                <Menu.Item as='a'>Features</Menu.Item>
                 <Menu.Item as='a'>Careers</Menu.Item>
                 <Menu.Item position='right'>
                   <Button as='a' inverted={!fixed}>
@@ -155,8 +157,8 @@ class MobileContainer extends Component {
             <Menu.Item as='a' active>
               Home
             </Menu.Item>
-            <Menu.Item as='a'>Work</Menu.Item>
-            <Menu.Item as='a'>Company</Menu.Item>
+            <Menu.Item as='a'>About</Menu.Item>
+            <Menu.Item as='a'>Features</Menu.Item>
             <Menu.Item as='a'>Careers</Menu.Item>
             <Menu.Item as='a'>Log in</Menu.Item>
             <Menu.Item as='a'>Sign Up</Menu.Item>
@@ -236,7 +238,7 @@ const HomepageLayout = () => (
             </p>
           </Grid.Column>
           <Grid.Column floated='right' width={6}>
-            <Image bordered rounded  src='./images/header.jpg' alt='fail' />
+            <Image bordered rounded  src={image} alt='fail' />
           </Grid.Column>
         </Grid.Row>
         <Grid.Row>
