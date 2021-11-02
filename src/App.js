@@ -14,6 +14,7 @@ import GridExampleGrid from './components/SemanticUI/Grids/basic/BasicGr';
 import GridHeading from './components/SemanticUI/Grids/GridHeading';
 import GridExampleStackable from './components/SemanticUI/Grids/Stackable/stackAble';
 import AccordionExampleFluid from './components/SemanticUI/ModulesL/Accordion/variationFluid';
+import ResponsiveLayout from './components/SemanticUI/Layouts/responsiveLayOut';
 
 function App() {
 
@@ -75,6 +76,8 @@ function App() {
       <GridExampleStackable />
     </div>
       <AccordionExampleFluid />
+
+      <ResponsiveLayout />
 
     </div>
   );
