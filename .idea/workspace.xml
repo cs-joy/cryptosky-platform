@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de9c6861-1f62-4406-9394-a5533d5945e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/SemanticUI/Layouts/responsiveLayOut.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SemanticUI/Layouts/HomeLayout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SemanticUI/Layouts/images/coworking6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SemanticUI/Layouts/images/right-side.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dApp.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cApp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
