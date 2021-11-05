@@ -316,23 +316,23 @@ const HomepageLayout = () => (
             <Grid.Column width={3}>
               <Header inverted as='h4' content='About' />
               <List link inverted>
-                <List.Item as='a'>Sitemap</List.Item>
+                <List.Item as='a'>Products</List.Item>
+                <List.Item as='a'>Team</List.Item>
                 <List.Item as='a'>Contact Us</List.Item>
-                <List.Item as='a'>Religious Ceremonies</List.Item>
-                <List.Item as='a'>Gazebo Plans</List.Item>
+                <List.Item as='a'>Our Plans</List.Item>
               </List>
             </Grid.Column>
             <Grid.Column width={3}>
-              <Header inverted as='h4' content='About' />
+              <Header inverted as='h4' content='Service' />
               <List link inverted>
-                <List.Item as='a'>Sitemap</List.Item>
-                <List.Item as='a'>Contact Us</List.Item>
-                <List.Item as='a'>Religious Ceremonies</List.Item>
-                <List.Item as='a'>Gazebo Plans</List.Item>
+                <List.Item as='a'>Blockchain Development</List.Item>
+                <List.Item as='a'>Blockchain Marketing</List.Item>
+                <List.Item as='a'>Software Development</List.Item>
+                <List.Item as='a'>Web Development</List.Item>
               </List>
             </Grid.Column>
             <Grid.Column width={3}>
-              <Header inverted as='h4' content='Services' />
+              <Header inverted as='h4' content='Platform' />
               <List link inverted>
                 <List.Item as='a'>Banana Pre-Order</List.Item>
                 <List.Item as='a'>DNA FAQ</List.Item>
