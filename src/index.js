@@ -10,7 +10,7 @@ import 'semantic-ui-css/semantic.min.css';
 /**--------Layout Test-------------=*/
 //import App from './cApp';
 
-/**--------Layout Test-------------=*/
+/**--reactSemanticUI------Layout Test-------------=*/
 import App from './sApp';
 
 import reportWebVitals from './reportWebVitals';

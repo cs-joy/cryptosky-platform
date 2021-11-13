@@ -1,10 +1,10 @@
 
 import StickyLayout from './components/SemanticUI/Layouts/StickyLayout';
 
-function sApp() {
+function App() {
   return (
     <StickyLayout />
   );
 }
 
-export default sApp;
+export default App;
