@@ -2,7 +2,16 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import 'semantic-ui-css/semantic.min.css';
-import App from './App';
+/** MAIN */
+//import App from './App';
+
+/*BETA Test*/
+
+/**--------Layout Test-------------=*/
+//import App from './cApp';
+
+/**--------Layout Test-------------=*/
+import App from './sApp';
 
 import reportWebVitals from './reportWebVitals';
 

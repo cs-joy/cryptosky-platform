@@ -1,10 +1,10 @@
 
 import HomepageLayout from './components/SemanticUI/Layouts/HomeLayout';
 
-function App() {
+function cApp() {
   return (
     <HomepageLayout />
   );
 }
 
-export default App;
+export default cApp;
